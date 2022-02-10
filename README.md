@@ -1,2 +1,4 @@
 # all-in-one-calc
-calc in all prog lang
+calculator in **SOME** programming language
+
+forgive me senpai, i dont know other programming language!

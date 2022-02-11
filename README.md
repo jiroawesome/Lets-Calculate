@@ -1,4 +1,12 @@
-# all-in-one-calc
-calculator in **SOME** programming language
+# Lets-Calculate
 
-forgive me senpai, i dont know other programming language!
+# Inspired by https://github.com/NVedsted/Lets-Calculate-BMI
+
+
+```js
+
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+```

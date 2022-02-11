@@ -14,7 +14,15 @@
 
 # File extension
 `.lol - LOLCODE`
+
 `.c - C LANG`
+
 `.cpp - C++`
+
 `.js - JavaScript`
+
 `.py- Python`
+
+`.lua - LUA`
+
+`.java - Java`

@@ -45,19 +45,19 @@ int main(int argc,char *argv[])
 	calculator c;
 	if (m == 1) {
 		int a = c.add(x,y);
-	    cout<<"The result is: "<<a<<"\n";
+	    cout<<"The answer is: "<<a<<"\n";
 	};
 	if (m == 2) {
 		int a = c.sub(x,y);
-    	cout<<"The result is: "<<a<<"\n";
+    	cout<<"The answer is: "<<a<<"\n";
 	};
 	if (m == 3) {
 		int a = c.multiply(x,y);
-    	cout<<"The result is: " <<a<<"\n";
+    	cout<<"The answer is: " <<a<<"\n";
 	};
 	if (m == 4) {
 		int a = c.divide(x,y);
-	    cout<<"The result is: "<<a<<"\n";
+	    cout<<"The answer is: "<<a<<"\n";
 	};
 	return 0;
 }

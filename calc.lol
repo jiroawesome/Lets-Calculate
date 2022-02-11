@@ -3,7 +3,7 @@ I HAS A X
 I HAS A Y 
 I HAS A OPERATION
 I HAS A ANSWER
-VISIBLE "Select operation: ", VISIBLE "1. Add", VISIBLE "2. Subtract", VISIBLE "3. Multiply", VISIBLE "4. Divide", VISIBLE "Select from above: " BTW ASK USER WHAT OPERATION THEY WANT TO DO
+VISIBLE "Select operation:", VISIBLE "1. Add", VISIBLE "2. Subtract", VISIBLE "3. Multiply", VISIBLE "4. Divide", VISIBLE "Select from above: " BTW ASK USER WHAT OPERATION THEY WANT TO DO
 GIMMEH OPERATION
 VISIBLE "Enter the first number: " BTW ASK USER FOR INPUT FOR VARIABLE X
 GIMMEH X   

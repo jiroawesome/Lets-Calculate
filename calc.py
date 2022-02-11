@@ -22,8 +22,8 @@ print("4. Divide")
 
 choice = input("Select from above: ")
 
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
 
 if choice == '1':
    print("The answer is: ", add(num1,num2))

@@ -28,7 +28,7 @@ int main() {
 	scanf("%d", &num2);
 	
 	int vals = calculator(num1, num2, method);
-	printf("The result is: %d", vals);
+	printf("The answer is: %d", vals);
 	
 	return 0;
 }

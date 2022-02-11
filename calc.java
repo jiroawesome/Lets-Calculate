@@ -40,7 +40,7 @@ public class calc {
 
         }
 
-        System.out.println("The result is: " + output);
+        System.out.println("The answer is: " + output);
       } else {
           System.out.println("Invalid input");
         }

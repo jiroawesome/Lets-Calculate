@@ -10,3 +10,11 @@
 3. Multiply
 4. Divide
 ```
+
+
+# File extension
+`.lol - LOLCODE`
+`.c - C LANG`
+`.cpp - C++`
+`.js - JavaScript`
+`.py- Python`

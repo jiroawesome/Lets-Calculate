@@ -7,6 +7,7 @@ puts "1. Add"
 puts "2. Subtract"
 puts "3. Multiply"
 puts "4. Divide"
+puts "Select from above: "
 response = gets.chomp
 
 case response

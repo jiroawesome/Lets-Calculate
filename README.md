@@ -26,3 +26,5 @@
 `.lua - LUA`
 
 `.java - Java`
+
+`.rb - Ruby`

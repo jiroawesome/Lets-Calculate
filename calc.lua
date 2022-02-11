@@ -36,6 +36,6 @@ while true do
    elseif(selectedOperation == "4")then
       print(divide(inputNumber(), inputNumber()));
    else
-      print("Wrong input");
+      print("Invalid input");
    end
 end

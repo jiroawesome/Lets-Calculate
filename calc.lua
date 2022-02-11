@@ -28,14 +28,14 @@ while true do
    if(selectedOperation == "0")then
       break;
    elseif(selectedOperation == "1")then
-      print(add(inputNumber(), inputNumber()));
+      print("The answer is:", add(inputNumber(), inputNumber()));
    elseif(selectedOperation == "2")then
-      print(subtract(inputNumber(), inputNumber()));
+      print("The answer is:", subtract(inputNumber(), inputNumber()));
    elseif(selectedOperation == "3")then
-      print(multiply(inputNumber(), inputNumber()));
+      print("The answer is:", multiply(inputNumber(), inputNumber()));
    elseif(selectedOperation == "4")then
-      print(divide(inputNumber(), inputNumber()));
+      print("The answer is:", divide(inputNumber(), inputNumber()));
    else
-      print("Invalid input");
+      print("Wrong input");
    end
 end

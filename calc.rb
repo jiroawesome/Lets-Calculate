@@ -12,35 +12,35 @@ response = gets.chomp
 
 case response
 when '1'
-  puts "Which numbers would you like to add? Enter the first number that you would like to Add."
+  puts "Enter the first number: "
   n1 = gets.chomp
-  puts "Then, Enter the second number that will be added."
+  puts "Enter the second number: "
   n2 = gets.chomp
   answer = n1.to_f + n2.to_f
-  puts "The answer is: #{n1} + #{n2} = #{answer}"
+  puts "The answer is: #{answer}"
 
 when '2'
-  puts "Which numbers would you like to add? Enter the first number that you would like to subtract."
+  puts "Enter the first number: "
   n1 = gets.chomp
-  puts "Then, Enter the second number that will subtract the previous number."
+  puts "Enter the second number: "
   n2 = gets.chomp
   answer = n1.to_f - n2.to_f
-  puts "The answer is: #{n1} - #{n2} = #{answer}"
+  puts "The answer is: #{answer}"
 
 when '3'
-  puts "Which numbers would you like to add? Enter the first number that you would like to be multiplied."
+  puts "Enter the first number: "
   n1 = gets.chomp
-  puts "Then, Enter the second number that will multiply the first number."
+  puts "Enter the second number: "
   n2 = gets.chomp
   answer = n1.to_f * n2.to_f
-  puts "The answer is: #{n1} * #{n2} = #{answer}"
+  puts "The answer is: #{answer}"
 
 when '4'
-  puts "Which numbers would you like to add? Enter the first number that you would like to be divided."
+  puts "Enter the first number: "
   n1 = gets.chomp
-  puts "Then, Enter the second number that will divide the first number."
+  puts "Enter the second number: "
   n2 = gets.chomp
   answer = n1.to_f / n2.to_f
-  puts "The answer is: #{n1} / #{n2} = #{answer}"
+  puts "The answer is: #{answer}"
 
 end

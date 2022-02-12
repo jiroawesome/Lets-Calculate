@@ -28,3 +28,7 @@
 `.java - Java`
 
 `.rb - Ruby`
+
+`.rs - Rust`
+
+`.go - GoLang`
